@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <!-- Errors -->
+    <string name="error_email_blank">Email не може бути пустим</string>
+    <string name="error_email_invalid">Введене значення email - невалідне</string>
+    <string name="error_password_short">Пароль має містити щонайменше 8 символів</string>
+    <string name="error_password_invalid">Пароль має містити хоча б одну літеру та хоча б один символ</string>
+    <string name="error_repeated_password_wrong">Паролі мають співпадати</string>
+    <string name="error_terms">Будь-ласка, підтвердіть згоду з умовами</string>
+
+    <string name="reg_success">Реєстрація успішна</string>
+    <string name="accept_terms">Підтвердіть умови використання</string>
+</resources>
